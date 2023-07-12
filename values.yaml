@@ -1,0 +1,6 @@
+# Default values for my Helm Chart
+
+namespace: vez
+
+serviceAccount:
+  name: jenkins-admin
